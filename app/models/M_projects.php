@@ -1,6 +1,6 @@
 <?php
 
-class m_projects
+class M_projects
 {
     private $table = 'tbl_food';
     private $db;

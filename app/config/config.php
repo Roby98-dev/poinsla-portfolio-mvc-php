@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost/poinsla-php-mvc/public_html');
+define('BASEURL', 'http://localhost/poinsla-portfolio-mvc-php/public_html');
 
 // DB
 define('DB_HOST', 'localhost');

@@ -26,7 +26,7 @@
             <a class="nav-link" href="<?= BASEURL; ?>">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?= BASEURL; ?>categories.php">Tech I Use</a>
+            <a class="nav-link" href="<?= BASEURL; ?>/tech_i_use">Tech I Use</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?= BASEURL; ?>foods.php">Portfolio</a>
